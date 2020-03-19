@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+
+
+
+
+/* reset */
+body{margin:0; padding:0; height: 100%; font-family: '나눔고딕';}
+article,aside,details,figcaption,figure,footer,header,main,menu,nav,section,summary{display:block;}
+audio,canvas,progress,video{display:inline-block;}
+html,body,div,p,h1,h2,h3,h4,h5,h6,dl,dt,dd,ol,ul,li,blockquote,pre,button,fieldset,form,legend,table,caption,tbody,tfoot,thead,tr,th,td,iframe,article,aside,canvas,details,embed,figure,figcaption,header,footer,menu,nav,section,summary,audio,video{margin:0;padding:0;border:0;font-size:inherit;font-family:inherit;vertical-align:baseline; box-sizing:border-box; text-decoration:none}
+body {background:url(../images/wating_background.png) no-repeat;}
+#wrap {height: 100%; font-family:'나눔고딕';}
+
+
+
+
+
+.header {margin-left:392px; margin-top:35px; font-size: 71.11px; letter-spacing: 43px; font-weight: bold; color:#fff;}
+
+.profile {margin-top:166px; float:left; margin-left:127px; padding-right:300px;}
+.number {font-size:119.34px; color:#e8873a; margin-top:-533px; margin-left:653px; float:left;}
+.part {font-size: 60px; float:right; text-align:right; margin-right:105px; margin-top:-390px; font-weight: bold; color:#0f5c65;}
+.doc {float:left; font-size:69.65px; margin-top:-188px; padding-left:300px; font-weight:bold; color:#474747; text-align:center; width:100%;}
+.schedule{font-size:27.24px; color:#208a96; padding-top:20px; float:left; text-align:center; width:100%;}
+.date {margin-top:975px; font-weight:bold;}
+.year {font-size:31.49px; margin-top:-365px; margin-left:858px; color:#fff;}
+.month {font-size:29.18px; color:#208a96; margin-left:842px; margin-top:15px; font-weight:bold;}
+.date_month{color:#000;}
+.day {font-size:67.8px; color:#208a96; margin-left:875px; margin-top:px; font-weight:700;}
+.now {font-size:43.41px;  padding-top:122px;}
+
+
+
+
